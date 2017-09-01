@@ -1,6 +1,8 @@
 # STF-RNN
 Keras implementation of STF-RNN: Space Time Features-based Recurrent Neural Network for Predicting People Next Location 
 
+http://ieeexplore.ieee.org/document/7849919/
+
 ## Requirements 
 
 ## How to run?
